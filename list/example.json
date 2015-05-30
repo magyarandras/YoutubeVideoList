@@ -1,0 +1,200 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"xmg9xJZuZD438sF4hb-VcBBREXc/m3cPJSo7dQS75OQg_SHGOrwYc9g\"",
+ "nextPageToken": "CAcQAA",
+ "pageInfo": {
+  "totalResults": 578,
+  "resultsPerPage": 7
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"xmg9xJZuZD438sF4hb-VcBBREXc/JzNt_IJbl9HIEbO1dzqa7PP4dvs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "1Iw7Tg_afKk"
+   },
+   "snippet": {
+    "publishedAt": "2015-05-20T16:57:25.000Z",
+    "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+    "title": "Android Developer Story: Wooga’s fast iterations on Android and Google Play",
+    "description": "The speed at which Wooga is able to iterate its live and under development games with the Android and Google Play tools has been key to delivering hits such ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1Iw7Tg_afKk/default.jpg"
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1Iw7Tg_afKk/mqdefault.jpg"
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1Iw7Tg_afKk/hqdefault.jpg"
+     }
+    },
+    "channelTitle": "androiddevelopers",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"xmg9xJZuZD438sF4hb-VcBBREXc/P3sZWlXACXK9x5GWlI8CJ7ynJ2c\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PLWz5rJ2EKKc8I9gHTMh5yKkwRRGE8BjbQ"
+   },
+   "snippet": {
+    "publishedAt": "2015-05-08T04:50:37.000Z",
+    "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+    "title": "Android Studio and Tools",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/K2dodTXARqc/default.jpg"
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/K2dodTXARqc/mqdefault.jpg"
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/K2dodTXARqc/hqdefault.jpg"
+     }
+    },
+    "channelTitle": "androiddevelopers",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"xmg9xJZuZD438sF4hb-VcBBREXc/tkro7_XcVIZsyz68u3JgPcSagq0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "MCoh4Pxs_ok"
+   },
+   "snippet": {
+    "publishedAt": "2015-05-05T17:01:12.000Z",
+    "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+    "title": "Android Developer Story: The Hunt increases engagement with material design and Google Play",
+    "description": "The Hunt has been making great use of material design to enhance engagement with its community, in their style advice and product discovery app. Using beta ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MCoh4Pxs_ok/default.jpg"
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MCoh4Pxs_ok/mqdefault.jpg"
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MCoh4Pxs_ok/hqdefault.jpg"
+     }
+    },
+    "channelTitle": "androiddevelopers",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"xmg9xJZuZD438sF4hb-VcBBREXc/IgeAvY7V2wbyk_Bw68UYfaMHKPQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Pd49vTkvu0U"
+   },
+   "snippet": {
+    "publishedAt": "2015-04-21T17:02:27.000Z",
+    "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+    "title": "Android Developer Story: Jelly Button Games — Growing globally through data driven development",
+    "description": "To really understand their users, Jelly Button Games analyses over 3 billion events each month using Google Analytics and Google BigQuery. With this data they ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Pd49vTkvu0U/default.jpg"
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Pd49vTkvu0U/mqdefault.jpg"
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Pd49vTkvu0U/hqdefault.jpg"
+     }
+    },
+    "channelTitle": "androiddevelopers",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"xmg9xJZuZD438sF4hb-VcBBREXc/QXonCBW5-JA3BdW9gLnAAjZphiY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ekxABqJeRBc"
+   },
+   "snippet": {
+    "publishedAt": "2015-03-18T18:19:58.000Z",
+    "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+    "title": "Android Developer Story: Outfit7 — Building an entertainment company with Google",
+    "description": "Outfit7, creators of My Talking Tom and My Talking Angela, offer a complete entertainment experience to users spanning mobile apps, user generated and ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ekxABqJeRBc/default.jpg"
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ekxABqJeRBc/mqdefault.jpg"
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ekxABqJeRBc/hqdefault.jpg"
+     }
+    },
+    "channelTitle": "androiddevelopers",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"xmg9xJZuZD438sF4hb-VcBBREXc/yEIFyKY9SUQ_0qmq4xXyDSTzkf8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "MPnH7h12h0U"
+   },
+   "snippet": {
+    "publishedAt": "2015-03-13T16:51:58.000Z",
+    "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+    "title": "Android Developer Story: Haystack TV Doubles Engagement with Android TV",
+    "description": "Haystack TV built a scalable business with six employees and Android TV. Two weeks was all it took for them to bring their mobile app to the big screen.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MPnH7h12h0U/default.jpg"
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MPnH7h12h0U/mqdefault.jpg"
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MPnH7h12h0U/hqdefault.jpg"
+     }
+    },
+    "channelTitle": "androiddevelopers",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"xmg9xJZuZD438sF4hb-VcBBREXc/qwCrqJnc1F499gBqBYpuq5MmLUI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "700gYRkhkLM"
+   },
+   "snippet": {
+    "publishedAt": "2015-02-24T16:52:28.000Z",
+    "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+    "title": "Android Developer Story: GinLemon - Breaking through with Google Play",
+    "description": "Meet Vincenzo Colucci, developer and founder of GinLemon, which started as a summer holiday joke and has now become a successful global app business on ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/700gYRkhkLM/default.jpg"
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/700gYRkhkLM/mqdefault.jpg"
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/700gYRkhkLM/hqdefault.jpg"
+     }
+    },
+    "channelTitle": "androiddevelopers",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
