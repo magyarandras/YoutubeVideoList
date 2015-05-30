@@ -128,6 +128,7 @@ $API_key = '{YOUR_API_KEY}';
 
 set_error_handler('videoListDisplayError');
 
+//To try without API key: $video_list = json_decode(file_get_contents('example.json'));
 $video_list = json_decode(file_get_contents('https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId='.$channelId.'&maxResults='.$maxResults.'&key='.$API_key.''));
 
 foreach($video_list->items as $item)
