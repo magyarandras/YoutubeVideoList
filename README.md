@@ -1,13 +1,13 @@
 # Youtube Video List
 Load videos automatically from selected Youtube channel with PHP and Youtube Data API v3
 
-##To get videos by username modify the [list/youtube_video.php](list/youtube_video.php):
+###To get videos by username modify the [list/youtube_video.php](list/youtube_video.php):
 ###1. Step:
 Get channel for username, this contains ID for the "uploads" playlist. The "upload" playlist contains all videos uploaded by user.
-Documentation: https://developers.google.com/youtube/v3/docs/channels/list
+Documentation: <a href="http://example.com/" target="_blank">https://developers.google.com/youtube/v3/docs/channels/list</a>
 ###2. Step:
 Create video list from the playlist.
-Documentation: https://developers.google.com/youtube/v3/docs/channels/list
+Documentation: <a href="http://example.com/" target="_blank">https://developers.google.com/youtube/v3/docs/channels/list</a>
 
 ##The code:
 
