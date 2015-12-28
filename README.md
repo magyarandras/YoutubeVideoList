@@ -4,10 +4,10 @@ Load videos automatically from selected Youtube channel with PHP and Youtube Dat
 ###To get videos by username modify the [list/youtube_video.php](list/youtube_video.php):
 ###1. Step:
 Get channel for username, this contains ID for the "uploads" playlist. The "upload" playlist contains all videos uploaded by user.
-Documentation: <a href="http://example.com/" target="_blank">https://developers.google.com/youtube/v3/docs/channels/list</a>
+Documentation: https://developers.google.com/youtube/v3/docs/channels/list
 ###2. Step:
 Create video list from the playlist.
-Documentation: <a href="http://example.com/" target="_blank">https://developers.google.com/youtube/v3/docs/channels/list</a>
+Documentation: https://developers.google.com/youtube/v3/docs/playlistItems/list
 
 ##The code:
 
@@ -15,7 +15,7 @@ Documentation: <a href="http://example.com/" target="_blank">https://developers.
 //Get the id of "uploads"
 //More info: https://developers.google.com/youtube/v3/docs/channels/list
 
-$username = "{YOUR_USERNAME}"; //The username(example: 
+$username = "{YOUR_USERNAME}"; //The username(example: johndoe)
 $maxResults = 10;
 $API_key = "{YOUR_API_KEY}";
 
