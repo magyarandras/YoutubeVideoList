@@ -9,7 +9,7 @@ Documentation: https://developers.google.com/youtube/v3/docs/channels/list
 Create video list from the playlist.
 Documentation: https://developers.google.com/youtube/v3/docs/channels/list
 
-The new code:
+The code:
 
 ```php
 //Get the id of "uploads"
